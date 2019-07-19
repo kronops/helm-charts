@@ -7,13 +7,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Add Repository
 
 ```
-helm repo add helm-nifi-registry https://kronops.github.io/helm-charts/
+helm repo add kronops https://kronops.github.io/helm-charts/
 ```
 
 #### Validate repository added
 
 ```
 helm repo list
+helm repo update
 ```
 
 ### Install NIFI Registry
