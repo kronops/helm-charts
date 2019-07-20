@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  helm-nifi-registry:
+  - apiVersion: v1
+    appVersion: 0.3.0
+    created: "2019-07-19T21:26:13.868544744-05:00"
+    description: A Helm chart for Nifi Registrys
+    digest: c0a643570a1ca70c59511f616e24eacc360eff75d59e7882b016ba1b01439a91
+    name: helm-nifi-registry
+    urls:
+    - https://kronops.github.io/helm-charts/helm-nifi-registry-0.0.1.tgz
+    version: 0.0.1
+generated: "2019-07-19T21:26:13.864628995-05:00"
